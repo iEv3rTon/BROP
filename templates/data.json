@@ -7,18 +7,13 @@
 	"height": 219
 
 	};
-	
-	
 
-	
-
-	"x": -9147,
-
-	"y": 3291,
-
-	"width": 1280,
-
-	"height": 219
+        "imperial": {
+	"name": "imperial.png",
+	"x": -8782,
+	"y": 373,
+	"width": 699,
+	"height": 435
 
 	}
 }
