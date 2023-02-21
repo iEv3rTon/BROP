@@ -6,6 +6,7 @@
    "y": 1069,
    "width": 640,
    "height": 360
+   "canvas_id": 0
             },
             
       "Imperial": {
@@ -14,57 +15,24 @@
    "y": 373,
    "width": 699,
    "height": 435
+   "canvas_id": 0
             },
- 
-       "St": {
-   "name": "satos.png", 
-   "x": 427,
-   "y": 9366,
-   "width": 53,
-   "height": 48
-            },
+
           "Cisplatina": { 
    "name": "unknown-52.png", 
    "x": -10661,
    "y": 5970,
    "width": 959,
    "height": 1057
+   "canvas_id": 0
             },
+
       "abcl": { 
    "name": "fim.png", 
    "x": 224,
    "y": 774,
    "width": 195,
    "height": 262
-            },
-      "Bonsai": {
-   "name": "bonsai.png", 
-   "x": 579, 
-   "y": -1243, 
-   "width": 102, 
-   "height": 125 
-           },
-      "Quadro": {
-   "name": "quadro.png",
-   "x": 808,
-   "y": -1250,
-   "width": 171,
-   "height": 133
-            } ,
-      "BaseDaBahia": {
-   "name": "flagBAfull.png",
-   "x": 2514,
-   "y": 2191,
-   "width": 396,
-   "height": 222
-            }, 
-      
-      "AttackZone": {
-   "name": "young.png",
-   "x": 318,
-   "y": 3035,
-   "width": 476,
-   "height": 337
             } 
-  
+ 
   }
