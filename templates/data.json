@@ -110,58 +110,58 @@
             },
      "Bahia- BAMOR": {
    "name": "Bahia.png", 
-   "x": -8782,
-   "y": 373,
+   "x": "",
+   "y": "",
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
      "Ceara": {
    "name": "Ceara.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Espírito Santo": {
    "name": "Espirito_Santo.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Goiás": {
    "name": "imperial.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Maranhão": {
    "name": "imperial.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Mato Grosso": {
    "name": "imperial.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Mato Grosso do Sul": {
    "name": "imperial.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Minas Gerais": {
@@ -206,10 +206,10 @@
             },
      "Piauí": {
    "name": "Piaui.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Rio de Janeiro": {
@@ -222,10 +222,10 @@
             },
      "Rio Grande do Norte": {
    "name": "Rio_Grande_do_Norte.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Rio Grande do Sul": {
@@ -246,10 +246,10 @@
             },
      "Roraima": {
    "name": "Roraima.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Santa Catarina": {
@@ -264,32 +264,32 @@
    "name": "São_Paulo.png", 
    "x": -9696,
    "y": 3776,
-   "width": ,
-   "height": ,
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Sergipe": {
    "name": "Sergipe.png", 
    "x": -6981,
    "y": 1781,
-   "width": ,
-   "height": ,
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Tocantins": {
    "name": "Tocantins.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Distrito Federal": {
    "name": "Distrito_Federal.png", 
-   "x": ,
-   "y": ,
-   "width": ,
-   "height": ,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             }
 
