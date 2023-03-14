@@ -1,5 +1,5 @@
 {     
-      
+"Bloco1": "## Templates Mapa Terra normal ##"
       "Brop": { 
    "name": "hbe.png", 
    "x": -9128,
@@ -44,9 +44,38 @@
    "height": 262
             },
 
+"Bloco2": "## Templates Mapa 1bit ##"
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 7
+            },
 
-"Nota": "##### Estados daqui pra baixo ######",
+"Bloco3": "## Templates Mapa Lua ##"
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 1
+            },
 
+"Bloco4": "## Templates Mapa Top10 ##"
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+
+
+"Bloco5": "##### Estados daqui pra baixo ######",
       "Acre": {
    "name": "Acre.png", 
    "x": -8782,
