@@ -143,7 +143,7 @@
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
+     "Pará": {
    "name": "imperial.png", 
    "x": -8782,
    "y": 373,
@@ -151,7 +151,7 @@
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
+     "Paraíba": {
    "name": "imperial.png", 
    "x": -8782,
    "y": 373,
@@ -159,7 +159,7 @@
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
+     "Paraná": {
    "name": "imperial.png", 
    "x": -8782,
    "y": 373,
@@ -167,92 +167,92 @@
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
+     "Pernambuco": {
+   "name": "Pernambuco.png", 
    "x": -8782,
    "y": 373,
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
+     "Piauí": {
+   "name": "Piaui.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
+     "Rio de Janeiro": {
+   "name": "Rio_de_Janeiro.png", 
    "x": -8782,
    "y": 373,
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+     "Rio Grande do Norte": {
+   "name": "Rio_Grande_do_Norte.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
+     "Rio Grande do Sul": {
+   "name": "Rio_Grande_do_Sul.png", 
+   "x": -10513,
+   "y": 5288,
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+     "Rondonia": {
+   "name": "Rondonia.png", 
+   "x": -12199,
+   "y": 1472,
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+     "Roraima": {
+   "name": "Roraima.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
+     "Santa Catarina": {
+   "name": "Santa_Catarina.png", 
+   "x": -9815,
+   "y": 5057,
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+     "São Paulo": {
+   "name": "São_Paulo.png", 
+   "x": -9696,
+   "y": 3776,
+   "width": ,
+   "height": ,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+     "Sergipe": {
+   "name": "Sergipe.png", 
+   "x": -6981,
+   "y": 1781,
+   "width": ,
+   "height": ,
    "canvas_id": 0
             },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
-   "canvas_id": 0
-            },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
-   "canvas_id": 0
-            },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
-   "canvas_id": 0
-            },
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+     "Tocantins": {
+   "name": "Tocantins.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
    "canvas_id": 0
             },
      "Distrito Federal": {
