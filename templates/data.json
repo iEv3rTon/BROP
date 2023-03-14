@@ -20,8 +20,8 @@
 
       "Imperial": {
    "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+   "x": "",
+   "y": "",
    "width": 699,
    "height": 435,
    "canvas_id": 0
@@ -55,7 +55,7 @@
             },
 
 "Bloco3": "## Templates Mapa Lua ##",
-     "Imperial": {
+     "Rei Pele": {
    "name": "Pele_lua.png", 
    "x": -3821,
    "y": 2444,
@@ -67,8 +67,8 @@
 "Bloco4": "## Templates Mapa Top10 ##",
      "Imperial": {
    "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+   "x": "",
+   "y": "",
    "width": 699,
    "height": 435,
    "canvas_id": 0
