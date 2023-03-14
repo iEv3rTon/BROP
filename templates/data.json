@@ -1,5 +1,5 @@
 {     
-"Bloco1": "## Templates Mapa Terra normal ##"
+"Bloco1": "## Templates Mapa Terra normal ##",
       "Brop": { 
    "name": "hbe.png", 
    "x": -9128,
@@ -44,7 +44,7 @@
    "height": 262
             },
 
-"Bloco2": "## Templates Mapa 1bit ##"
+"Bloco2": "## Templates Mapa 1bit ##",
      "Imperial": {
    "name": "imperial.png", 
    "x": -8782,
@@ -54,7 +54,7 @@
    "canvas_id": 7
             },
 
-"Bloco3": "## Templates Mapa Lua ##"
+"Bloco3": "## Templates Mapa Lua ##",
      "Imperial": {
    "name": "imperial.png", 
    "x": -8782,
@@ -64,7 +64,7 @@
    "canvas_id": 1
             },
 
-"Bloco4": "## Templates Mapa Top10 ##"
+"Bloco4": "## Templates Mapa Top10 ##",
      "Imperial": {
    "name": "imperial.png", 
    "x": -8782,
@@ -291,7 +291,7 @@
    "width": ,
    "height": ,
    "canvas_id": 0
-            },
+            }
 
 
 }
