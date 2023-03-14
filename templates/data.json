@@ -57,10 +57,18 @@
 "Bloco3": "## Templates Mapa Lua ##",
      "Rei Pele": {
    "name": "Pele_lua.png", 
-   "x": -3821,
-   "y": 2444,
-   "width": 640,
-   "height": 639,
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
+   "canvas_id": 1
+            },
+     "Mapa Estados Lua": {
+   "name": "Mapa_Estados_Lua.png", 
+   "x": 5766,
+   "y": -2859,
+   "width": 450,
+   "height": 398,
    "canvas_id": 1
             },
 
