@@ -56,9 +56,9 @@
 
 "Bloco3": "## Templates Mapa Lua ##",
      "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+   "name": "Pele_lua.png", 
+   "x": 3821,
+   "y": 2444,
    "width": 699,
    "height": 435,
    "canvas_id": 1
