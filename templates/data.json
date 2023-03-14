@@ -45,12 +45,12 @@
             },
 
 "Bloco2": "## Templates Mapa 1bit ##",
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+     "Bandeirinha": {
+   "name": "Flag_Centro_1bit.png", 
+   "x": 136,
+   "y": -78,
+   "width": 178,
+   "height": 124,
    "canvas_id": 7
             },
 
