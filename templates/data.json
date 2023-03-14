@@ -78,18 +78,18 @@
 "Bloco5": "##### Estados daqui pra baixo ######",
       "Acre": {
    "name": "Acre.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "x": -13582,
+   "y": 1318,
+   "width": 1500,
+   "height": 800,
    "canvas_id": 0
             },
      "Alagoas": {
    "name": "Alagoas.png", 
-   "x": -8,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "x": -6991,
+   "y": 1650,
+   "width": 566,
+   "height": 334,
    "canvas_id": 0
             },
      "Amapa": {
@@ -126,14 +126,14 @@
             },
      "Espírito Santo": {
    "name": "Espirito_Santo.png", 
-   "x": "",
-   "y": "",
-   "width": "",
-   "height": "",
+   "x": -7644,
+   "y": 3411,
+   "width": 404,
+   "height": 684,
    "canvas_id": 0
             },
      "Goiás": {
-   "name": "imperial.png", 
+   "name": "Goias.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -141,7 +141,7 @@
    "canvas_id": 0
             },
      "Maranhão": {
-   "name": "imperial.png", 
+   "name": "Maranhao.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -149,7 +149,7 @@
    "canvas_id": 0
             },
      "Mato Grosso": {
-   "name": "imperial.png", 
+   "name": "Mato_Grosso.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -157,7 +157,7 @@
    "canvas_id": 0
             },
      "Mato Grosso do Sul": {
-   "name": "imperial.png", 
+   "name": "Mato_Grosso_do_Sul.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -165,43 +165,43 @@
    "canvas_id": 0
             },
      "Minas Gerais": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "name": "Minas_Gerais.png", 
+   "x": -9613,
+   "y": 2694,
+   "width": 2039,
+   "height": 1729,
    "canvas_id": 0
             },
      "Pará": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
+   "name": "Para.png", 
+   "x": "",
+   "y": "",
    "width": 699,
    "height": 435,
    "canvas_id": 0
             },
      "Paraíba": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "name": "Paraiba.png", 
+   "x": "",
+   "y": "",
+   "width": "",
+   "height": "",
    "canvas_id": 0
             },
      "Paraná": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "name": "Parana.png", 
+   "x": -9966,
+   "y": 4354,
+   "width": 1202,
+   "height": 863,
    "canvas_id": 0
             },
      "Pernambuco": {
    "name": "Pernambuco.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "x": -7556,
+   "y": 1356,
+   "width": 1500,
+   "height": 412,
    "canvas_id": 0
             },
      "Piauí": {
@@ -214,10 +214,10 @@
             },
      "Rio de Janeiro": {
    "name": "Rio_de_Janeiro.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "x": -8193,
+   "y": 3984,
+   "width": 718,
+   "height": 534,
    "canvas_id": 0
             },
      "Rio Grande do Norte": {
@@ -232,16 +232,16 @@
    "name": "Rio_Grande_do_Sul.png", 
    "x": -10513,
    "y": 5288,
-   "width": 699,
-   "height": 435,
+   "width": 1448,
+   "height": 1469,
    "canvas_id": 0
             },
      "Rondonia": {
    "name": "Rondonia.png", 
    "x": -12199,
    "y": 1472,
-   "width": 699,
-   "height": 435,
+   "width": 1344,
+   "height": 1156,
    "canvas_id": 0
             },
      "Roraima": {
@@ -256,24 +256,24 @@
    "name": "Santa_Catarina.png", 
    "x": -9815,
    "y": 5057,
-   "width": 699,
-   "height": 435,
+   "width": 1032,
+   "height": 750,
    "canvas_id": 0
             },
      "São Paulo": {
    "name": "São_Paulo.png", 
    "x": -9696,
    "y": 3776,
-   "width": "",
-   "height": "",
+   "width": 1640,
+   "height": 1150,
    "canvas_id": 0
             },
      "Sergipe": {
    "name": "Sergipe.png", 
    "x": -6981,
    "y": 1781,
-   "width": "",
-   "height": "",
+   "width": 336,
+   "height": 397,
    "canvas_id": 0
             },
      "Tocantins": {
