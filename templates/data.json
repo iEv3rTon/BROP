@@ -45,7 +45,7 @@
             },
 
 "Bloco2": "## Templates Mapa 1bit ##",
-     "Bandeirinha 1bit": {
+     "Bandeirinha": {
    "name": "Flag_Centro_1bit.png", 
    "x": 136,
    "y": -78,
@@ -55,9 +55,9 @@
             },
 
 "Bloco3": "## Templates Mapa Lua ##",
-     "Rei Pele": {
+     "Imperial": {
    "name": "Pele_lua.png", 
-   "x": 3821,
+   "x": -3821,
    "y": 2444,
    "width": 640,
    "height": 639,
