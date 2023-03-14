@@ -18,6 +18,15 @@
    "canvas_id": 0
             },
 
+      "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+
           "Cisplatina": { 
    "name": "unknown-52.png", 
    "x": -10661,
@@ -33,6 +42,75 @@
    "y": 774,
    "width": 195,
    "height": 262
-            } 
- 
-  }
+            },
+
+
+"Nota": "Estados daqui pra baixo",
+
+      "Acre": {
+   "name": "Acre.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Alagoas": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            }
+
+
+}
