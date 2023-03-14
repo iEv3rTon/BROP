@@ -45,7 +45,7 @@
             },
 
 
-"Nota": "Estados daqui pra baixo",
+"Nota": "##### Estados daqui pra baixo ######",
 
       "Acre": {
    "name": "Acre.png", 
@@ -56,6 +56,94 @@
    "canvas_id": 0
             },
      "Alagoas": {
+   "name": "Alagoas.png", 
+   "x": -8,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Amapa": {
+   "name": "Amapa.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
+     "Amazonas": {
+   "name": "Amazonas.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
+     "Bahia- BAMOR": {
+   "name": "Bahia.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Ceara": {
+   "name": "Ceara.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
+     "Espírito Santo": {
+   "name": "Espirito_Santo.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
    "name": "imperial.png", 
    "x": -8782,
    "y": 373,
@@ -110,7 +198,71 @@
    "width": 699,
    "height": 435,
    "canvas_id": 0
-            }
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Imperial": {
+   "name": "imperial.png", 
+   "x": -8782,
+   "y": 373,
+   "width": 699,
+   "height": 435,
+   "canvas_id": 0
+            },
+     "Distrito Federal": {
+   "name": "Distrito_Federal.png", 
+   "x": ,
+   "y": ,
+   "width": ,
+   "height": ,
+   "canvas_id": 0
+            },
 
 
 }
