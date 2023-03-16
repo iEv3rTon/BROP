@@ -1,5 +1,5 @@
 {     
-"Bloco1": "## Templates Mapa Terra normal ##",
+"id 0": "## Templates Mapa Terra normal ##",
       "Brop": { 
    "name": "hbe.png", 
    "x": -9128,
@@ -10,51 +10,64 @@
             },
             
       "Imperial": {
-   "name": "imperial.png", 
-   "x": -8782,
-   "y": 373,
-   "width": 699,
-   "height": 435,
+   "name": "bandeiraimperial.png", 
+   "x": -8800,
+   "y": 337,
+   "width": 708,
+   "height": 423,
    "canvas_id": 0
             },
 
-      "Imperial": {
-   "name": "imperial.png", 
-   "x": "",
-   "y": "",
-   "width": 699,
-   "height": 435,
+      "Paraguai Brop": {
+   "name": "paragay.png", 
+   "x": -11430,
+   "y": 3705,
+   "width": 1532,
+   "height": 1708,
    "canvas_id": 0
             },
-
-          "Cisplatina": { 
+      "Cisplatina": { 
    "name": "unknown-52.png", 
-   "x": -10661,
+   "x": -10661, 
    "y": 5970,
    "width": 959,
    "height": 1057,
    "canvas_id": 0
             },
-
-      "abcl": { 
-   "name": "fim.png", 
-   "x": 224,
-   "y": 774,
-   "width": 195,
-   "height": 262
+      "Palacio Do Ipiranga": { 
+   "name": "palacio_ipiranga.png", 
+   "x": -9518,
+   "y": 1324,
+   "width": 399,
+   "height": 113,
+   "canvas_id": 0
+            },
+      "KC-390": { 
+   "name": "unknown-52.png", 
+   "x": -9593, 
+   "y": 277,
+   "width": 744,
+   "height": 243,
+   "canvas_id": 0
+            },
+      "Navio Tamadare": { 
+   "name": "tamandare.png", 
+   "x": -8388,
+   "y": 5478,
+   "width": 1136,
+   "height": 260,
+   "canvas_id": 0
+            },
+      "Link discord": { 
+   "name": "discord.png", 
+   "x": 9147,
+   "y": 3291,
+   "width": 1136,
+   "height": 260,
+   "canvas_id": 0
             },
 
-"Bloco2": "## Templates Mapa 1bit ##",
-     "Bandeirinha": {
-   "name": "Flag_Centro_1bit.png", 
-   "x": 136,
-   "y": -78,
-   "width": 178,
-   "height": 124,
-   "canvas_id": 7
-            },
-
-"Bloco3": "## Templates Mapa Lua ##",
+"id 1": "## Templates Mapa Lua ##",
      "Rei Pele": {
    "name": "Pele_Lua.png", 
    "x": -3821,
@@ -71,19 +84,67 @@
    "height": 398,
    "canvas_id": 1
             },
-
-"Bloco4": "## Templates Mapa Top10 ##",
-     "Imperial": {
-   "name": "imperial.png", 
-   "x": "",
-   "y": "",
-   "width": 699,
-   "height": 435,
-   "canvas_id": 0
+     "CBF lua": {
+   "name": "cbf_lua.png", 
+   "x": 6057, 
+   "y": -3170,
+   "width": 208,
+   "height": 215,
+   "canvas_id": 1
+            },
+     "Waifu Br": {
+   "name": "waifu_br.png", 
+   "x": 2736,
+   "y": -492,
+   "width": 250,
+   "height": 250,
+   "canvas_id": 1
+            },
+"id 7": "## Templates Mapa 1bit ##",
+     "Bandeirinha": {
+   "name": "Flag_Centro_1bit.png", 
+   "x": 136, 
+   "y": -78,
+   "width": 178,
+   "height": 124,
+   "canvas_id": 7
+            },
+     "Bandeira bit2": {
+   "name": "bandeira_bit2.png", 
+   "x": -2056,
+   "y": 2067,
+   "width": 721,
+   "height": 437,
+   "canvas_id": 7
+            },
+     "Senna 1bit": {
+   "name": "senna_bit.png", 
+   "x": 191514,
+   "y": 716,
+   "width": 1538,
+   "height": 2052,
+   "canvas_id": 7
             },
 
+"id 8": "## Templates Mapa Top10 ##",
+     "Cristo Redentor top10": {
+   "name": "cristo_top10.png", 
+   "x": 675, 
+   "y": -758,
+   "width": 200,
+   "height": 300,
+   "canvas_id": 8
+            },
+     "Senna Top10": {
+   "name": "senna_top10.png", 
+   "x": 512,
+   "y": -751,
+   "width": 200,
+   "height": 300,
+   "canvas_id": 8
+            },
 
-"Bloco5": "##### Estados daqui pra baixo ######",
+"id 0": "### Estados daqui pra baixo ##",
       "Acre": {
    "name": "Acre.png", 
    "x": -13582,
