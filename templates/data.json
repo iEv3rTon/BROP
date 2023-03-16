@@ -1,6 +1,6 @@
 {     
 "id 0": "## Templates Mapa Terra normal ##",
-      "Bandeira
+      "Bandeira"
    "name": "Bandeira.png"
    "x": -9507,
    "y": 2128,
@@ -8,52 +8,52 @@
    "height": 1161,
    "canvas_id": 0
             },
-      "Brop": { 
-   "name": "hbe.png", 
-   "x": -9128,
-   "y": 1069,
-   "width": 640,
-   "height": 360,
+      "Cristo Redentor": { 
+   "name": "Cristo.png", 
+   "x": -10137,
+   "y": 2426,
+   "width": 592,
+   "height": 825,
    "canvas_id": 0
             },
-      "Brop": { 
-   "name": "hbe.png", 
-   "x": -9128,
+      "Mural": { 
+   "name": "arts_1.png", 
+   "x": -9509,
    "y": 1069,
-   "width": 640,
-   "height": 360,
+   "width": 1187,
+   "height": 943,
    "canvas_id": 0
             },
-      "Brop": { 
-   "name": "hbe.png", 
-   "x": -9128,
-   "y": 1069,
-   "width": 640,
-   "height": 360,
+      "Kuruminha": { 
+   "name": "Kuruminha.png", 
+   "x": -8308,
+   "y": 1568,
+   "width": 288,
+   "height": 374,
    "canvas_id": 0
             },
-      "Brop": { 
-   "name": "hbe.png", 
-   "x": -9128,
-   "y": 1069,
-   "width": 640,
-   "height": 360,
+      "Saab JAS 39 Gripen": { 
+   "name": "gripen.png", 
+   "x": -7272,
+   "y": 1059,
+   "width": 300,
+   "height": 250,
    "canvas_id": 0
             },
-      "Brop": { 
-   "name": "hbe.png", 
-   "x": -9128,
-   "y": 1069,
-   "width": 640,
-   "height": 360,
+      "Astros II": { 
+   "name": "astrosll.png", 
+   "x": -7703,
+   "y": 926,
+   "width": 400,
+   "height": 200,
    "canvas_id": 0
             },
-      "Brop": { 
-   "name": "hbe.png", 
-   "x": -9128,
-   "y": 1069,
-   "width": 640,
-   "height": 360,
+      "Tanque Leoparde 1a5": { 
+   "name": "cupenis_L.png", 
+   "x": -7703,
+   "y": 926,
+   "width": 600,
+   "height": 200,
    "canvas_id": 0
             },       
       "Imperial": {
@@ -64,7 +64,6 @@
    "height": 423,
    "canvas_id": 0
             },
-
       "Paraguai Brop": {
    "name": "paragay.png", 
    "x": -11430,
