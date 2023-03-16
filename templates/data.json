@@ -1,5 +1,13 @@
 {     
 "id 0": "## Templates Mapa Terra normal ##",
+      "Bandeira
+   "name": "Bandeira.png"
+   "x": -9507,
+   "y": 2128,
+   "width": 1943,
+   "height": 1161,
+   "canvas_id": 0
+            },
       "Brop": { 
    "name": "hbe.png", 
    "x": -9128,
@@ -8,7 +16,46 @@
    "height": 360,
    "canvas_id": 0
             },
-            
+      "Brop": { 
+   "name": "hbe.png", 
+   "x": -9128,
+   "y": 1069,
+   "width": 640,
+   "height": 360,
+   "canvas_id": 0
+            },
+      "Brop": { 
+   "name": "hbe.png", 
+   "x": -9128,
+   "y": 1069,
+   "width": 640,
+   "height": 360,
+   "canvas_id": 0
+            },
+      "Brop": { 
+   "name": "hbe.png", 
+   "x": -9128,
+   "y": 1069,
+   "width": 640,
+   "height": 360,
+   "canvas_id": 0
+            },
+      "Brop": { 
+   "name": "hbe.png", 
+   "x": -9128,
+   "y": 1069,
+   "width": 640,
+   "height": 360,
+   "canvas_id": 0
+            },
+      "Brop": { 
+   "name": "hbe.png", 
+   "x": -9128,
+   "y": 1069,
+   "width": 640,
+   "height": 360,
+   "canvas_id": 0
+            },       
       "Imperial": {
    "name": "bandeiraimperial.png", 
    "x": -8800,
@@ -62,8 +109,8 @@
    "name": "discord.png", 
    "x": 9147,
    "y": 3291,
-   "width": 1136,
-   "height": 260,
+   "width": 1280,
+   "height": 216,
    "canvas_id": 0
             },
 
@@ -123,6 +170,14 @@
    "y": 716,
    "width": 1538,
    "height": 2052,
+   "canvas_id": 7
+            },
+     "Base 1Bit": {
+   "name": "basebit.png", 
+   "x": 18986,
+   "y": -648,
+   "width": 3000,
+   "height": 1620,
    "canvas_id": 7
             },
 
