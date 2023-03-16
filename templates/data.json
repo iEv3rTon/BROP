@@ -1,6 +1,6 @@
 {     
 "id 0": "## Templates Mapa Terra normal ##",
-      "Bandeira"
+      "Bandeira": {
    "name": "Bandeira.png"
    "x": -9507,
    "y": 2128,
