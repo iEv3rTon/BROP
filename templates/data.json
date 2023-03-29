@@ -2,8 +2,8 @@
 "id 0": "## Templates Mapa Terra normal ##",
       "Bandeira": {
    "name": "Bandeira.png",
-   "x": -12370,
-   "y": 89,
+   "x": -12374,
+   "y": 90,
    "width": 1943,
    "height": 1161,
    "canvas_id": 0
@@ -114,8 +114,8 @@
             },
       "Link discord": { 
    "name": "discord.png", 
-   "x": -12011,
-   "y": 1250,
+   "x": -12012,
+   "y": 1251,
    "width": 1280,
    "height": 216,
    "canvas_id": 0
