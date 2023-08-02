@@ -9,7 +9,7 @@
    "canvas_id": 0
             },
       "Imperial-Mar": {
-   "url": "imperial-mar.png",
+   "url": "https://i.imgur.com/f0WMH5D.png",
    "x": -9208,
    "y": -1528,
    "width": 1311,
@@ -73,7 +73,7 @@
    "canvas_id": 0
             },
       "Paraguai Brop": {
-   "url": "paragay.png", 
+   "url": "https://i.imgur.com/S0V8XEe.png", 
    "x": -11430,
    "y": 3705,
    "width": 1532,
@@ -81,7 +81,7 @@
    "canvas_id": 0
             },
       "Cisplatina": { 
-   "url": "Cisplatina_Base.png", 
+   "url": "https://i.imgur.com/k6Gnmcm.png", 
    "x": -10772,
    "y": 5921,
    "width": 1182,
@@ -123,7 +123,7 @@
 
 "id 1": "## Templates Mapa Lua ##",
      "Rei Pele": {
-   "url": "Pele_Lua.png", 
+   "url": "https://i.imgur.com/C6SP6V0.png", 
    "x": -3821,
    "y": 2444,
    "width": 1202,
@@ -131,7 +131,7 @@
    "canvas_id": 1
             },
      "Mapa Estados Lua": {
-   "url": "Mapa_Estados_Lua.png", 
+   "url": "Mhttps://media.discordapp.net/attachments/1030931157673590854/1035438955321102366/Brasil_moon.png", 
    "x": 5779,
    "y": -2834,
    "width": 450,
@@ -139,7 +139,7 @@
    "canvas_id": 1
             },
      "CBF lua": {
-   "url": "cbf_lua.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1044665636711829564/ppfunconvert_10-1.png", 
    "x": 6057, 
    "y": -3170,
    "width": 208,
@@ -156,7 +156,7 @@
             },
 "id 7": "## Templates Mapa 1bit ##",
      "Bandeirinha": {
-   "url": "Flag_Centro_1bit.png", 
+   "url": "https://media.discordapp.net/attachments/989542366362865744/1074529202570797126/bigchunks.png", 
    "x": 136, 
    "y": -78,
    "width": 178,
@@ -164,7 +164,7 @@
    "canvas_id": 7
             },
      "Bandeira bit2": {
-   "url": "bandeira_bit2.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1035746051182833744/ppfunconvert_5.png", 
    "x": -2056,
    "y": 2067,
    "width": 721,
@@ -172,7 +172,7 @@
    "canvas_id": 7
             },
      "Senna 1bit": {
-   "url": "senna_bit.png", 
+   "url": "https://i.imgur.com/EWE4F9x.png", 
    "x": 19514,
    "y": 716,
    "width": 1538,
@@ -190,7 +190,7 @@
 
 "id 8": "## Templates Mapa Top10 ##",
      "Cristo Redentor top10": {
-   "url": "cristo_top10.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1044665341017600090/top102.png", 
    "x": 675, 
    "y": -758,
    "width": 200,
@@ -198,7 +198,7 @@
    "canvas_id": 8
             },
      "Senna Top10": {
-   "url": "senna_top10.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1044665761593036840/hispano-3.png", 
    "x": 512,
    "y": -751,
    "width": 200,
@@ -336,15 +336,15 @@
    "canvas_id": 0
             },
      "Piauí": {
-   "url": "Piaui.png", 
-   "x": "",
-   "y": "",
-   "width": "",
-   "height": "",
+   "url": "https://media.discordapp.net/attachments/1084649331698696352/1129294247074484274/image.png", 
+   "x": "-8394",
+   "y": "499",
+   "width": "1077",
+   "height": "1557",
    "canvas_id": 0
             },
      "Rio de Janeiro": {
-   "url": "Rio_de_janeiro.png", 
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1090963409203367966/Rio_de_janeiro.png", 
    "x": -8193,
    "y": 3984,
    "width": 718,
@@ -352,11 +352,11 @@
    "canvas_id": 0
             },
      "Rio Grande do Norte": {
-   "url": "Rio_Grande_do_Norte.png", 
-   "x": "",
-   "y": "",
-   "width": "",
-   "height": "",
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1095135579445928057/image.png", 
+   "x": "-7044,
+   "y": "890",
+   "width": "663",
+   "height": "411",
    "canvas_id": 0
             },
      "Rio Grande do Sul": { 
@@ -368,7 +368,7 @@
    "canvas_id": 0
             },
      "Rondonia": {
-   "url": "Rondonia.png", 
+   "url": "https://media.discordapp.net/attachments/989542366362865744/1036115021652037632/Rondonia_-12199_1472_e_.png", 
    "x": -12199,
    "y": 1472,
    "width": 1344,
@@ -384,7 +384,7 @@
    "canvas_id": 0
             },
      "Santa Catarina": {
-   "url": "Santa_Catarina.png", 
+   "url": "https://media.discordapp.net/attachments/991499165769146408/1063244002708692992/sc_vermelhoescuro.png", 
    "x": -9815,
    "y": 5057,
    "width": 1032,
@@ -392,7 +392,7 @@
    "canvas_id": 0
             },
      "São Paulo": {
-   "url": "Sao_Paulo.png", 
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1076656934263988394/image.png", 
    "x": -9696,
    "y": 3776,
    "width": 1640,
@@ -400,7 +400,7 @@
    "canvas_id": 0
             },
      "Sergipe": {
-   "url": "Sergipe.png", 
+   "url": "https://media.discordapp.net/attachments/969319989385519224/1082727574041534565/sergio.png", 
    "x": -6981,
    "y": 1781,
    "width": 336,
