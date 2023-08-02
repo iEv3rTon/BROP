@@ -1,7 +1,7 @@
 {     
 "id 0": "## Templates Mapa Terra normal ##",
       "Bandeira": {
-   "url": "Bandeira.png",
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1030931387697598534/BandeiraCopy.png",
    "x": -12374,
    "y": 90,
    "width": 1943,
@@ -15,57 +15,9 @@
    "width": 1311,
    "height": 837,
    "canvas_id": 0
-            },
-      "Cristo Redentor": { 
-   "url": "Cristo.png", 
-   "x": -10137,
-   "y": 2426,
-   "width": 592,
-   "height": 825,
-   "canvas_id": 0
-            },
-      "Mural": { 
-   "url": "arts_1.png", 
-   "x": -9509,
-   "y": 1069,
-   "width": 1187,
-   "height": 943,
-   "canvas_id": 0
-            },
-      "Kuruminha": { 
-   "url": "Kuruminha.png", 
-   "x": -8308,
-   "y": 1568,
-   "width": 288,
-   "height": 374,
-   "canvas_id": 0
-            },
-      "Saab JAS 39 Gripen": { 
-   "url": "gripen.png", 
-   "x": -7272,
-   "y": 1059,
-   "width": 300,
-   "height": 250,
-   "canvas_id": 0
-            },
-      "Astros II": { 
-   "url": "astrosll.png", 
-   "x": -7703,
-   "y": 926,
-   "width": 400,
-   "height": 200,
-   "canvas_id": 0
-            },
-      "Tanque Leoparde 1a5": { 
-   "url": "Cupenis_L.png", 
-   "x": -7703,
-   "y": 926,
-   "width": 600,
-   "height": 200,
-   "canvas_id": 0
-            },       
+            },     
       "Imperial": {
-   "url": "bandeiraimperial.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1035330113803407462/bandeiraimperial_1-4.png", 
    "x": -8800,
    "y": 337,
    "width": 708,
@@ -88,24 +40,8 @@
    "height": 1154,
    "canvas_id": 0
             },
-      "Palacio Do Ipiranga": { 
-   "url": "palacio_ipiranga.png", 
-   "x": -9518,
-   "y": 1324,
-   "width": 399,
-   "height": 113,
-   "canvas_id": 0
-            },
-      "KC-390": { 
-   "url": "Kc390-4.png", 
-   "x": -9593, 
-   "y": 277,
-   "width": 744,
-   "height": 243,
-   "canvas_id": 0
-            },
       "Navio Tamadare": { 
-   "url": "tamandare.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1035330370947776592/ppfunconvert_-_2022-09-05T162041.766-1.png", 
    "x": -8388,
    "y": 5478,
    "width": 1136,
@@ -113,7 +49,7 @@
    "canvas_id": 0
             },
       "Link discord": { 
-   "url": "discord.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1035330134019948575/discordCopy-1-4.png", 
    "x": -12012,
    "y": 1251,
    "width": 1280,
@@ -147,7 +83,7 @@
    "canvas_id": 1
             },
      "Waifu Br": {
-   "url": "waifu_br.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1035347413344469054/image-2-1.png", 
    "x": 2736,
    "y": -492,
    "width": 250,
@@ -180,7 +116,7 @@
    "canvas_id": 7
             },
      "Base 1Bit": {
-   "url": "basebit.png", 
+   "url": "https://media.discordapp.net/attachments/1030931157673590854/1035330122787590185/basebit_1-2.png", 
    "x": 18986,
    "y": -648,
    "width": 3000,
@@ -225,10 +161,10 @@
             },
      "Amapa": {
    "url": "https://media.discordapp.net/attachments/494887343824568341/1095135579160719381/image_2.png", 
-   "x": "10015",
-   "y": "-837",
-   "width": "916",
-   "height": "1055",
+   "x": 10015,
+   "y": -837,
+   "width": 916,
+   "height": 1055,
    "canvas_id": 0
             },
      "Amazonas": {
@@ -241,18 +177,18 @@
             },
      "Bahia- BAMOR": {
    "url": "https://media.discordapp.net/attachments/969319989385519224/1109190006687404122/bahia.png", 
-   "x": "-8508",
-   "y": "1595",
-   "width": "1692",
-   "height": "1905",
+   "x": -8508,
+   "y": 1595,
+   "width": 1692,
+   "height": 1905,
    "canvas_id": 0
             },
      "Ceara": {
    "url": "https://media.discordapp.net/attachments/969319989385519224/1120158748929966080/cearaa.png", 
-   "x": "-7559",
-   "y": "506",
-   "width": "758",
-   "height": "960",
+   "x": -7559,
+   "y": 506,
+   "width": 758,
+   "height": 960,
    "canvas_id": 0
             },
      "Espírito Santo": {
@@ -305,8 +241,8 @@
             },
      "Pará": {
    "url": "https://media.discordapp.net/attachments/969319989385519224/1123999630447869993/testes3.png", 
-   "x": "-10742",
-   "y": "-482",
+   "x": -10742,
+   "y": -482,
    "width": 2338,
    "height": 2334,
    "canvas_id": 0
@@ -337,10 +273,10 @@
             },
      "Piauí": {
    "url": "https://media.discordapp.net/attachments/1084649331698696352/1129294247074484274/image.png", 
-   "x": "-8394",
-   "y": "499",
-   "width": "1077",
-   "height": "1557",
+   "x": -8394,
+   "y": 499,
+   "width": 1077,
+   "height": 1557,
    "canvas_id": 0
             },
      "Rio de Janeiro": {
@@ -353,10 +289,10 @@
             },
      "Rio Grande do Norte": {
    "url": "https://media.discordapp.net/attachments/494887343824568341/1095135579445928057/image.png", 
-   "x": "-7044,
-   "y": "890",
-   "width": "663",
-   "height": "411",
+   "x": -7044,
+   "y": 890,
+   "width": 663,
+   "height": 411,
    "canvas_id": 0
             },
      "Rio Grande do Sul": { 
@@ -417,12 +353,10 @@
             },
      "Distrito Federal": {
    "url": "https://media.discordapp.net/attachments/991499165769146408/1095033037076574359/image.png", 
-   "x": "-8810",
-   "y": "2939",
-   "width": "179",
-   "height": "110",
+   "x": -8810,
+   "y": 2939,
+   "width": 179,
+   "height": 110,
    "canvas_id": 0
             }
-
-
 }
