@@ -1,7 +1,7 @@
 {     
 "id 0": "## Templates Mapa Terra normal ##",
       "Bandeira": {
-   "name": "Bandeira.png",
+   "url": "Bandeira.png",
    "x": -12374,
    "y": 90,
    "width": 1943,
@@ -9,7 +9,7 @@
    "canvas_id": 0
             },
       "Imperial-Mar": {
-   "name": "imperial-mar.png",
+   "url": "imperial-mar.png",
    "x": -9208,
    "y": -1528,
    "width": 1311,
@@ -17,7 +17,7 @@
    "canvas_id": 0
             },
       "Cristo Redentor": { 
-   "name": "Cristo.png", 
+   "url": "Cristo.png", 
    "x": -10137,
    "y": 2426,
    "width": 592,
@@ -25,7 +25,7 @@
    "canvas_id": 0
             },
       "Mural": { 
-   "name": "arts_1.png", 
+   "url": "arts_1.png", 
    "x": -9509,
    "y": 1069,
    "width": 1187,
@@ -33,7 +33,7 @@
    "canvas_id": 0
             },
       "Kuruminha": { 
-   "name": "Kuruminha.png", 
+   "url": "Kuruminha.png", 
    "x": -8308,
    "y": 1568,
    "width": 288,
@@ -41,7 +41,7 @@
    "canvas_id": 0
             },
       "Saab JAS 39 Gripen": { 
-   "name": "gripen.png", 
+   "url": "gripen.png", 
    "x": -7272,
    "y": 1059,
    "width": 300,
@@ -49,7 +49,7 @@
    "canvas_id": 0
             },
       "Astros II": { 
-   "name": "astrosll.png", 
+   "url": "astrosll.png", 
    "x": -7703,
    "y": 926,
    "width": 400,
@@ -57,7 +57,7 @@
    "canvas_id": 0
             },
       "Tanque Leoparde 1a5": { 
-   "name": "Cupenis_L.png", 
+   "url": "Cupenis_L.png", 
    "x": -7703,
    "y": 926,
    "width": 600,
@@ -65,7 +65,7 @@
    "canvas_id": 0
             },       
       "Imperial": {
-   "name": "bandeiraimperial.png", 
+   "url": "bandeiraimperial.png", 
    "x": -8800,
    "y": 337,
    "width": 708,
@@ -73,7 +73,7 @@
    "canvas_id": 0
             },
       "Paraguai Brop": {
-   "name": "paragay.png", 
+   "url": "paragay.png", 
    "x": -11430,
    "y": 3705,
    "width": 1532,
@@ -81,7 +81,7 @@
    "canvas_id": 0
             },
       "Cisplatina": { 
-   "name": "Cisplatina_Base.png", 
+   "url": "Cisplatina_Base.png", 
    "x": -10772,
    "y": 5921,
    "width": 1182,
@@ -89,7 +89,7 @@
    "canvas_id": 0
             },
       "Palacio Do Ipiranga": { 
-   "name": "palacio_ipiranga.png", 
+   "url": "palacio_ipiranga.png", 
    "x": -9518,
    "y": 1324,
    "width": 399,
@@ -97,7 +97,7 @@
    "canvas_id": 0
             },
       "KC-390": { 
-   "name": "Kc390-4.png", 
+   "url": "Kc390-4.png", 
    "x": -9593, 
    "y": 277,
    "width": 744,
@@ -105,7 +105,7 @@
    "canvas_id": 0
             },
       "Navio Tamadare": { 
-   "name": "tamandare.png", 
+   "url": "tamandare.png", 
    "x": -8388,
    "y": 5478,
    "width": 1136,
@@ -113,7 +113,7 @@
    "canvas_id": 0
             },
       "Link discord": { 
-   "name": "discord.png", 
+   "url": "discord.png", 
    "x": -12012,
    "y": 1251,
    "width": 1280,
@@ -123,7 +123,7 @@
 
 "id 1": "## Templates Mapa Lua ##",
      "Rei Pele": {
-   "name": "Pele_Lua.png", 
+   "url": "Pele_Lua.png", 
    "x": -3821,
    "y": 2444,
    "width": 1202,
@@ -131,7 +131,7 @@
    "canvas_id": 1
             },
      "Mapa Estados Lua": {
-   "name": "Mapa_Estados_Lua.png", 
+   "url": "Mapa_Estados_Lua.png", 
    "x": 5779,
    "y": -2834,
    "width": 450,
@@ -139,7 +139,7 @@
    "canvas_id": 1
             },
      "CBF lua": {
-   "name": "cbf_lua.png", 
+   "url": "cbf_lua.png", 
    "x": 6057, 
    "y": -3170,
    "width": 208,
@@ -147,7 +147,7 @@
    "canvas_id": 1
             },
      "Waifu Br": {
-   "name": "waifu_br.png", 
+   "url": "waifu_br.png", 
    "x": 2736,
    "y": -492,
    "width": 250,
@@ -156,7 +156,7 @@
             },
 "id 7": "## Templates Mapa 1bit ##",
      "Bandeirinha": {
-   "name": "Flag_Centro_1bit.png", 
+   "url": "Flag_Centro_1bit.png", 
    "x": 136, 
    "y": -78,
    "width": 178,
@@ -164,7 +164,7 @@
    "canvas_id": 7
             },
      "Bandeira bit2": {
-   "name": "bandeira_bit2.png", 
+   "url": "bandeira_bit2.png", 
    "x": -2056,
    "y": 2067,
    "width": 721,
@@ -172,7 +172,7 @@
    "canvas_id": 7
             },
      "Senna 1bit": {
-   "name": "senna_bit.png", 
+   "url": "senna_bit.png", 
    "x": 19514,
    "y": 716,
    "width": 1538,
@@ -180,7 +180,7 @@
    "canvas_id": 7
             },
      "Base 1Bit": {
-   "name": "basebit.png", 
+   "url": "basebit.png", 
    "x": 18986,
    "y": -648,
    "width": 3000,
@@ -190,7 +190,7 @@
 
 "id 8": "## Templates Mapa Top10 ##",
      "Cristo Redentor top10": {
-   "name": "cristo_top10.png", 
+   "url": "cristo_top10.png", 
    "x": 675, 
    "y": -758,
    "width": 200,
@@ -198,7 +198,7 @@
    "canvas_id": 8
             },
      "Senna Top10": {
-   "name": "senna_top10.png", 
+   "url": "senna_top10.png", 
    "x": 512,
    "y": -751,
    "width": 200,
@@ -208,7 +208,7 @@
 
 "id 0": "### Estados daqui pra baixo ##",
       "Acre": {
-   "name": "Acre.png", 
+   "url": "Acre.png", 
    "x": -13582,
    "y": 1318,
    "width": 1500,
@@ -216,7 +216,7 @@
    "canvas_id": 0
             },
      "Alagoas": {
-   "name": "Alagoas.png", 
+   "url": "Alagoas.png", 
    "x": -6981,
    "y": 1650,
    "width": 566,
@@ -224,7 +224,7 @@
    "canvas_id": 0
             },
      "Amapa": {
-   "name": "Amapa.png", 
+   "url": "Amapa.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -232,7 +232,7 @@
    "canvas_id": 0
             },
      "Amazonas": {
-   "name": "Amazonas.png", 
+   "url": "Amazonas.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -240,7 +240,7 @@
    "canvas_id": 0
             },
      "Bahia- BAMOR": {
-   "name": "Bahia.png", 
+   "url": "Bahia.png", 
    "x": "",
    "y": "",
    "width": 699,
@@ -248,7 +248,7 @@
    "canvas_id": 0
             },
      "Ceara": {
-   "name": "Ceara.png", 
+   "url": "Ceara.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -256,7 +256,7 @@
    "canvas_id": 0
             },
      "Espírito Santo": {
-   "name": "Espirito_Santo.png", 
+   "url": "Espirito_Santo.png", 
    "x": -7644,
    "y": 3411,
    "width": 404,
@@ -264,7 +264,7 @@
    "canvas_id": 0
             },
      "Goiás": {
-   "name": "Goias.png", 
+   "url": "Goias.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -272,7 +272,7 @@
    "canvas_id": 0
             },
      "Maranhão": {
-   "name": "Maranhao.png", 
+   "url": "Maranhao.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -280,7 +280,7 @@
    "canvas_id": 0
             },
      "Mato Grosso": {
-   "name": "Mato_Grosso.png", 
+   "url": "Mato_Grosso.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -288,7 +288,7 @@
    "canvas_id": 0
             },
      "Mato Grosso do Sul": {
-   "name": "Mato_Grosso_do_Sul.png", 
+   "url": "Mato_Grosso_do_Sul.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -296,7 +296,7 @@
    "canvas_id": 0
             },
      "Minas Gerais": {
-   "name": "Minas_Gerais.png", 
+   "url": "Minas_Gerais.png", 
    "x": -9313,
    "y": 2694,
    "width": 2039,
@@ -304,7 +304,7 @@
    "canvas_id": 0
             },
      "Pará": {
-   "name": "Para.png", 
+   "url": "Para.png", 
    "x": "",
    "y": "",
    "width": 699,
@@ -312,7 +312,7 @@
    "canvas_id": 0
             },
      "Paraíba": {
-   "name": "Paraiba.png", 
+   "url": "Paraiba.png", 
    "x": -7077,
    "y": 1115,
    "width": 727,
@@ -320,7 +320,7 @@
    "canvas_id": 0
             },
      "Paraná": {
-   "name": "Parana.png", 
+   "url": "Parana.png", 
    "x": -9966,
    "y": 4354,
    "width": 1202,
@@ -328,7 +328,7 @@
    "canvas_id": 0
             },
      "Pernambuco": {
-   "name": "Pernambuco.png", 
+   "url": "Pernambuco.png", 
    "x": -7556,
    "y": 1356,
    "width": 1500,
@@ -336,7 +336,7 @@
    "canvas_id": 0
             },
      "Piauí": {
-   "name": "Piaui.png", 
+   "url": "Piaui.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -344,7 +344,7 @@
    "canvas_id": 0
             },
      "Rio de Janeiro": {
-   "name": "Rio_de_janeiro.png", 
+   "url": "Rio_de_janeiro.png", 
    "x": -8193,
    "y": 3984,
    "width": 718,
@@ -352,15 +352,14 @@
    "canvas_id": 0
             },
      "Rio Grande do Norte": {
-   "name": "Rio_Grande_do_Norte.png", 
+   "url": "Rio_Grande_do_Norte.png", 
    "x": "",
    "y": "",
    "width": "",
    "height": "",
    "canvas_id": 0
             },
-     "Rio Grande do Sul": {
-   "name": "Rio_Grande_Do_Sul.png", 
+     "Rio Grande do Sul": { 
    "url": "https://media.discordapp.net/attachments/969319989385519224/1048295181021093968/RS_BROP.png",
    "x": -10513,
    "y": 5288,
@@ -369,7 +368,7 @@
    "canvas_id": 0
             },
      "Rondonia": {
-   "name": "Rondonia.png", 
+   "url": "Rondonia.png", 
    "x": -12199,
    "y": 1472,
    "width": 1344,
@@ -377,7 +376,7 @@
    "canvas_id": 0
             },
      "Roraima": {
-   "name": "Roraima.png", 
+   "url": "Roraima.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -385,7 +384,7 @@
    "canvas_id": 0
             },
      "Santa Catarina": {
-   "name": "Santa_Catarina.png", 
+   "url": "Santa_Catarina.png", 
    "x": -9815,
    "y": 5057,
    "width": 1032,
@@ -393,7 +392,7 @@
    "canvas_id": 0
             },
      "São Paulo": {
-   "name": "Sao_Paulo.png", 
+   "url": "Sao_Paulo.png", 
    "x": -9696,
    "y": 3776,
    "width": 1640,
@@ -401,7 +400,7 @@
    "canvas_id": 0
             },
      "Sergipe": {
-   "name": "Sergipe.png", 
+   "url": "Sergipe.png", 
    "x": -6981,
    "y": 1781,
    "width": 336,
@@ -409,7 +408,7 @@
    "canvas_id": 0
             },
      "Tocantins": {
-   "name": "Tocantins.png", 
+   "url": "Tocantins.png", 
    "x": "",
    "y": "",
    "width": "",
@@ -417,7 +416,7 @@
    "canvas_id": 0
             },
      "Distrito Federal": {
-   "name": "Distrito_Federal.png", 
+   "url": "Distrito_Federal.png", 
    "x": "",
    "y": "",
    "width": "",
