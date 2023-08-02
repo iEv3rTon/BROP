@@ -208,7 +208,7 @@
 
 "id 0": "### Estados daqui pra baixo ##",
       "Acre": {
-   "url": "Acre.png", 
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1060309686563385454/Acrezil.png", 
    "x": -13582,
    "y": 1318,
    "width": 1500,
@@ -216,7 +216,7 @@
    "canvas_id": 0
             },
      "Alagoas": {
-   "url": "Alagoas.png", 
+   "url": "https://media.discordapp.net/attachments/969319989385519224/1083607851387330590/esep.png", 
    "x": -6981,
    "y": 1650,
    "width": 566,
@@ -224,11 +224,11 @@
    "canvas_id": 0
             },
      "Amapa": {
-   "url": "Amapa.png", 
-   "x": "",
-   "y": "",
-   "width": "",
-   "height": "",
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1095135579160719381/image_2.png", 
+   "x": "10015",
+   "y": "-837",
+   "width": "916",
+   "height": "1055",
    "canvas_id": 0
             },
      "Amazonas": {
@@ -240,23 +240,23 @@
    "canvas_id": 0
             },
      "Bahia- BAMOR": {
-   "url": "Bahia.png", 
-   "x": "",
-   "y": "",
-   "width": 699,
-   "height": 435,
+   "url": "https://media.discordapp.net/attachments/969319989385519224/1109190006687404122/bahia.png", 
+   "x": "-8508",
+   "y": "1595",
+   "width": "1692",
+   "height": "1905",
    "canvas_id": 0
             },
      "Ceara": {
-   "url": "Ceara.png", 
-   "x": "",
-   "y": "",
-   "width": "",
-   "height": "",
+   "url": "https://media.discordapp.net/attachments/969319989385519224/1120158748929966080/cearaa.png", 
+   "x": "-7559",
+   "y": "506",
+   "width": "758",
+   "height": "960",
    "canvas_id": 0
             },
      "Espírito Santo": {
-   "url": "Espirito_Santo.png", 
+   "url": "https://media.discordapp.net/attachments/967678512993566740/1026533421536772188/template_ES.png", 
    "x": -7644,
    "y": 3411,
    "width": 404,
@@ -296,7 +296,7 @@
    "canvas_id": 0
             },
      "Minas Gerais": {
-   "url": "Minas_Gerais.png", 
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1073649224417280010/image.png", 
    "x": -9313,
    "y": 2694,
    "width": 2039,
@@ -304,15 +304,15 @@
    "canvas_id": 0
             },
      "Pará": {
-   "url": "Para.png", 
-   "x": "",
-   "y": "",
-   "width": 699,
-   "height": 435,
+   "url": "https://media.discordapp.net/attachments/969319989385519224/1123999630447869993/testes3.png", 
+   "x": "-10742",
+   "y": "-482",
+   "width": 2338,
+   "height": 2334,
    "canvas_id": 0
             },
      "Paraíba": {
-   "url": "Paraiba.png", 
+   "url": "https://media.discordapp.net/attachments/969319989385519224/1087133406506266778/nego.png", 
    "x": -7077,
    "y": 1115,
    "width": 727,
@@ -320,19 +320,19 @@
    "canvas_id": 0
             },
      "Paraná": {
-   "url": "Parana.png", 
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1098056132079140916/image-2.png", 
    "x": -9966,
    "y": 4354,
    "width": 1202,
-   "height": 863,
+   "height": 861,
    "canvas_id": 0
             },
      "Pernambuco": {
-   "url": "Pernambuco.png", 
-   "x": -7556,
+   "url": "https://media.discordapp.net/attachments/494887343824568341/1098056131840053328/image-3.png", 
+   "x": -7581,
    "y": 1356,
-   "width": 1500,
-   "height": 412,
+   "width": 1260,
+   "height": 421,
    "canvas_id": 0
             },
      "Piauí": {
@@ -416,11 +416,11 @@
    "canvas_id": 0
             },
      "Distrito Federal": {
-   "url": "Distrito_Federal.png", 
-   "x": "",
-   "y": "",
-   "width": "",
-   "height": "",
+   "url": "https://media.discordapp.net/attachments/991499165769146408/1095033037076574359/image.png", 
+   "x": "-8810",
+   "y": "2939",
+   "width": "179",
+   "height": "110",
    "canvas_id": 0
             }
 
