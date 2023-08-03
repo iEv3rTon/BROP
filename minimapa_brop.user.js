@@ -7,8 +7,8 @@
 // @match        https://pixelplanet.fun/*
 // @match        https://fuckyouarkeros.fun/*
 // @grant        none
-// @updateURL    https://ev3rton.000webhostapp.com/minimapa/brop-map.user.js
-// @downloadURL  https://ev3rton.000webhostapp.com/minimapa/brop-map.user.js
+// @updateURL    https://github.com/iEv3rTon/BROP/raw/main/minimapa_brop.user.js
+// @downloadURL  https://github.com/iEv3rTon/BROP/raw/main/minimapa_brop.user.js
 // ==/UserScript==
 
 //  ╔══╗───────╔═╗╔╗───  ───╔═╗
